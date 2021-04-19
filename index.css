@@ -1,0 +1,17 @@
+#appcenterdiv{
+	background-color: #099ffc;
+	margin-top:10%;
+	padding:30px;
+}
+#maindiv{
+background-color: white;
+font-family: 'Alex Brush';
+padding:30px;
+font-size: 40px;
+}
+#newquotes{
+	width:100%;
+}
+#author{
+	float:right;
+}
